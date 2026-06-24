@@ -113,7 +113,7 @@ Busco oportunidades para atuar com desenvolvimento web, automações, backend, i
 ## 📫 Contato
 
 * GitHub: [@natanaelhauck](https://github.com/natanaelhauck)
-* LinkedIn: (http://linkedin.com/in/natanaelhauck)
+* LinkedIn: [Natanael Henrique Hauck](http://linkedin.com/in/natanaelhauck)
 
 ---
 
