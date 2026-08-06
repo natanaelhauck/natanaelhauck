@@ -114,6 +114,7 @@ Busco oportunidades para atuar com desenvolvimento web, automações, backend, i
 
 * GitHub: [@natanaelhauck](https://github.com/natanaelhauck)
 * LinkedIn: [Natanael Henrique Hauck](http://linkedin.com/in/natanaelhauck)
+* Gmail: [natanaelhauck1@gmail.com](mailto:natanaelhauck1@gmail.com)
 
 ---
 
