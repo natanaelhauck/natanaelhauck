@@ -1,7 +1,7 @@
 <h1 align="center">Natanael Hauck</h1>
 
 <p align="center">
-  <strong>Desenvolvimento Full Stack • Backend • Dados • Automação</strong>
+  <strong>Backend • Dados • Automação • Full Stack</strong>
 </p>
 
 <p align="center">
@@ -20,6 +20,8 @@
 Desenvolvedor com atuação prática em **aplicações web, APIs, dados e automação**. Nos projetos mais recentes, venho trabalhando com arquitetura backend, modelagem de dados, integrações, pipelines de coleta e tratamento, dashboards analíticos, testes e deploy.
 
 Meu foco técnico está principalmente em **backend, dados e automação**, mantendo capacidade full stack para levar uma solução da modelagem e implementação até a interface e publicação.
+
+🎓 Graduando em **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
@@ -84,20 +86,22 @@ Meu foco técnico está principalmente em **backend, dados e automação**, mant
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos selecionados
 
 ### Observatório de Consórcios MG
 
-Plataforma profissional de **dados e inteligência sobre consórcios públicos de Minas Gerais**, reunindo múltiplas fontes públicas em uma base auditável e disponibilizando indicadores, rankings, consultas e visualizações para análise.
+**Projeto profissional · repositórios privados da organização**
+
+Plataforma de **dados e inteligência sobre consórcios públicos de Minas Gerais**, reunindo múltiplas fontes públicas em uma base auditável e disponibilizando indicadores, rankings, consultas e visualizações para análise.
 
 - **Backend:** FastAPI, PostgreSQL, SQLAlchemy, Alembic, autenticação, cache, rate limit e auditoria.
 - **Dados:** conectores e pipelines em Python, validação, rastreabilidade, Pandas, GeoPandas e DuckDB.
 - **Frontend:** React + TypeScript, consultas analíticas, mapas e visualizações de dados.
 - **Engenharia:** testes automatizados, documentação técnica, Docker e operação no Railway.
 
-> Projeto profissional desenvolvido em repositórios privados da organização.
-
 ### PD Reports
+
+**Sistema profissional · demonstração disponível**
 
 Sistema full stack de **gestão acadêmica e acompanhamento operacional**, criado para centralizar alunos, monitorias, indicadores, consumo de cursos, certificação e diferentes perfis de acesso.
 
@@ -108,9 +112,11 @@ Sistema full stack de **gestão acadêmica e acompanhamento operacional**, criad
 
 [Ver demonstração →](https://pdreports.vercel.app)
 
-> Repositório profissional privado; a demonstração utiliza dados anonimizados ou fictícios.
+> O repositório profissional é privado; a demonstração utiliza dados anonimizados ou fictícios.
 
 ### Campanha Fácil IA
+
+**Projeto público · MVP em evolução**
 
 Aplicação web para ajudar pequenos negócios a transformar um briefing simples em um plano inicial de campanha, com geração assistida por IA e orientações práticas para execução.
 
