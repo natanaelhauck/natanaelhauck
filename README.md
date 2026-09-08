@@ -1,11 +1,11 @@
 <h1 align="center">Natanael Hauck</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack • Backend • Dados • Automação</strong>
+  <strong>Desenvolvimento Full Stack • Backend • Dados • Automação</strong>
 </p>
 
 <p align="center">
-  Construo APIs, plataformas de dados, dashboards e automações voltadas a problemas reais de operação.
+  APIs, plataformas de dados, dashboards e automações para problemas reais de operação.
 </p>
 
 <p align="center">
@@ -15,18 +15,15 @@
 
 ---
 
-## Sobre mim
+## 👨‍💻 Perfil
 
-- Desenvolvimento de **APIs REST**, sistemas web e dashboards administrativos.
-- Experiência prática com **Python, FastAPI, SQLAlchemy, PostgreSQL, React e TypeScript**.
-- Construção de pipelines e rotinas de dados com foco em **qualidade, rastreabilidade e automação**.
-- Integrações com APIs externas e serviços do **Google Workspace**.
-- Deploy e operação de aplicações usando **Docker, Railway e Vercel**.
-- Uso de testes, linting, migrações de banco e documentação técnica como parte do fluxo de desenvolvimento.
+Desenvolvedor com atuação prática em **aplicações web, APIs, dados e automação**. Nos projetos mais recentes, venho trabalhando com arquitetura backend, modelagem de dados, integrações, pipelines de coleta e tratamento, dashboards analíticos, testes e deploy.
+
+Meu foco técnico está principalmente em **backend, dados e automação**, mantendo capacidade full stack para levar uma solução da modelagem e implementação até a interface e publicação.
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 ### Backend & APIs
 
@@ -36,10 +33,10 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
   <img src="https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge" alt="Alembic" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
 </p>
 
-### Data & Databases
+### Dados & Bancos
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -62,73 +59,81 @@
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
 </p>
 
-### Infra, Quality & Tools
+### Infraestrutura, Qualidade & Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=000000" alt="Ruff" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
 </p>
 
-### Automação & Integrações
+### Integrações & IA
 
 <p>
-  <img src="https://img.shields.io/badge/Google_Calendar_API-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Google Calendar API" />
-  <img src="https://img.shields.io/badge/Google_Drive_API-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive API" />
-  <img src="https://img.shields.io/badge/Google_Sheets_API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets API" />
+  <img src="https://img.shields.io/badge/Google_Workspace_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace APIs" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
 </p>
 
 ---
 
-## Projetos em destaque
+## 🚀 Projetos em destaque
 
 ### Observatório de Consórcios MG
 
-Plataforma de dados e inteligência para organização e análise de informações sobre consórcios públicos de Minas Gerais.
+Plataforma profissional de **dados e inteligência sobre consórcios públicos de Minas Gerais**, reunindo múltiplas fontes públicas em uma base auditável e disponibilizando indicadores, rankings, consultas e visualizações para análise.
 
-**O que desenvolvi e aprofundei no projeto:**
-
-- API versionada com **FastAPI**, autenticação, rate limit, cache e auditoria.
-- Modelagem e evolução de banco **PostgreSQL** com **SQLAlchemy + Alembic**.
-- Pipelines de coleta, tratamento e validação de dados públicos em Python.
-- Processamento analítico com **Pandas, GeoPandas e DuckDB**.
-- Frontend em **React + TypeScript**, com mapas, gráficos e consultas analíticas.
-- Testes automatizados, documentação técnica, Docker e deploy no Railway.
+- **Backend:** FastAPI, PostgreSQL, SQLAlchemy, Alembic, autenticação, cache, rate limit e auditoria.
+- **Dados:** conectores e pipelines em Python, validação, rastreabilidade, Pandas, GeoPandas e DuckDB.
+- **Frontend:** React + TypeScript, consultas analíticas, mapas e visualizações de dados.
+- **Engenharia:** testes automatizados, documentação técnica, Docker e operação no Railway.
 
 > Projeto profissional desenvolvido em repositórios privados da organização.
 
+### PD Reports
+
+Sistema full stack de **gestão acadêmica e acompanhamento operacional**, criado para centralizar alunos, monitorias, indicadores, consumo de cursos, certificação e diferentes perfis de acesso.
+
+- **Frontend:** React + Vite.
+- **Backend:** Python + Flask.
+- **Dados:** PostgreSQL/Neon e integração com Google Sheets.
+- **Engenharia:** autenticação, autorização por perfil, testes, scripts operacionais e deploy separado de frontend e API.
+
+[Ver demonstração →](https://pdreports.vercel.app)
+
+> Repositório profissional privado; a demonstração utiliza dados anonimizados ou fictícios.
+
 ### Campanha Fácil IA
 
-Aplicação web que gera um plano inicial de campanha para pequenos negócios, combinando formulário estruturado, IA e orientações práticas de execução.
+Aplicação web para ajudar pequenos negócios a transformar um briefing simples em um plano inicial de campanha, com geração assistida por IA e orientações práticas para execução.
 
-**Stack:** Next.js, TypeScript, Tailwind CSS, OpenAI API, Google GenAI, Supabase e Playwright.
+- **Stack:** Next.js, TypeScript, Tailwind CSS, OpenAI API e Google Gemini.
+- Histórico local e suporte opcional a autenticação/persistência com Supabase.
+- Testes E2E com Playwright, validações de entrada e controles de custo e segurança para chamadas de IA.
 
 [Ver repositório →](https://github.com/natanaelhauck/campanha-facil-IA)
 
-### Auto Relatório Monitoria
+---
 
-Automação em Python criada para reduzir trabalho manual no registro e acompanhamento de monitorias, integrando eventos, documentos e dados acadêmicos.
+## 🎯 Foco técnico
 
-**Stack:** Python, Google Calendar API, Google Drive API, Google Docs API, Google Sheets API, pytest e automação de processos.
+**Backend • APIs • Engenharia de Dados • Automação • Sistemas Full Stack**
 
-[Ver repositório →](https://github.com/natanaelhauck/auto-relatoriomonitoria)
+Busco continuar aprofundando arquitetura backend, processamento e qualidade de dados, integrações e construção de produtos completos que transformem processos manuais e dados dispersos em sistemas confiáveis e úteis para tomada de decisão.
 
 ---
 
-## O que busco desenvolver
+## 📫 Contato
 
-Tenho foco em evoluir cada vez mais em **backend, engenharia de dados, automação e desenvolvimento full stack**, criando produtos que transformem processos manuais e dados dispersos em sistemas confiáveis e úteis para tomada de decisão.
-
----
-
-## Contato
-
-- LinkedIn: [linkedin.com/in/natanaelhauck](https://www.linkedin.com/in/natanaelhauck)
-- GitHub: [@natanaelhauck](https://github.com/natanaelhauck)
-- Email: [natanaelhauck1@gmail.com](mailto:natanaelhauck1@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/natanaelhauck"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:natanaelhauck1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/natanaelhauck"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
