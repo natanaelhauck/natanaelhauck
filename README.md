@@ -1,121 +1,145 @@
-# Olá, eu sou o Natanael Hauck 👋
+<h1 align="center">Natanael Hauck</h1>
 
-Sou desenvolvedor em formação, com foco em **sistemas web, automações, dashboards administrativos e soluções para problemas reais de operação**.
+<p align="center">
+  <strong>Backend • Dados • Automação • Full Stack</strong>
+</p>
 
-Atualmente venho construindo projetos usando **React, Python, Flask, PostgreSQL, Supabase, Google Workspace APIs, Vercel e Render**, sempre buscando transformar processos manuais em sistemas mais organizados, seguros e fáceis de usar.
+<p align="center">
+  APIs, plataformas de dados, dashboards e automações para problemas reais de operação.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/natanaelhauck"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:natanaelhauck1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-## 🚀 Sobre mim
+## 👨‍💻 Perfil
 
-* 💻 Desenvolvo aplicações web com foco em uso real, organização de dados e produtividade.
-* 🧠 Tenho interesse em backend, automações, integrações com APIs e sistemas administrativos.
-* 📊 Gosto de criar dashboards, relatórios e ferramentas que ajudam equipes a tomar decisões.
-* 🔐 Tenho estudado autenticação, permissões, banco de dados, deploy e boas práticas de segurança.
-* 📚 Estou em constante evolução, aplicando o que aprendo em projetos práticos.
+Desenvolvedor com atuação prática em **aplicações web, APIs, dados e automação**. Nos projetos mais recentes, venho trabalhando com arquitetura backend, modelagem de dados, integrações, pipelines de coleta e tratamento, dashboards analíticos, testes e deploy.
+
+Meu foco técnico está principalmente em **backend, dados e automação**, mantendo capacidade full stack para levar uma solução da modelagem e implementação até a interface e publicação.
+
+🎓 Graduando em **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
-## 🧰 Tecnologias que uso
+## 🧰 Tech Stack
+
+### Backend & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge" alt="Alembic" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
+</p>
+
+### Dados & Bancos
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge" alt="GeoPandas" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=000000" alt="DuckDB" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" />
+</p>
 
 ### Frontend
 
-React, Vite, JavaScript, HTML, CSS
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+</p>
 
-### Backend
+### Infraestrutura, Qualidade & Ferramentas
 
-Python, Flask, APIs REST, automações e scripts
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=000000" alt="Ruff" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+</p>
 
-### Banco de dados e cloud
+### Integrações & IA
 
-PostgreSQL, Neon, Supabase, Vercel, Render
-
-### Integrações e ferramentas
-
-Google Sheets API, Google Calendar API, Google Docs API, Google Drive API, Google Forms, Git, GitHub, VS Code
+<p>
+  <img src="https://img.shields.io/badge/Google_Workspace_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace APIs" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+</p>
 
 ---
 
-## 📌 Projetos em destaque
+## 🚀 Projetos selecionados
+
+### Observatório de Consórcios MG
+
+**Projeto profissional · repositórios privados da organização**
+
+Plataforma de **dados e inteligência sobre consórcios públicos de Minas Gerais**, reunindo múltiplas fontes públicas em uma base auditável e disponibilizando indicadores, rankings, consultas e visualizações para análise.
+
+- **Backend:** FastAPI, PostgreSQL, SQLAlchemy, Alembic, autenticação, cache, rate limit e auditoria.
+- **Dados:** conectores e pipelines em Python, validação, rastreabilidade, Pandas, GeoPandas e DuckDB.
+- **Frontend:** React + TypeScript, consultas analíticas, mapas e visualizações de dados.
+- **Engenharia:** testes automatizados, documentação técnica, Docker e operação no Railway.
 
 ### PD Reports
 
-Sistema web full stack para gestão acadêmica, acompanhamento de alunos, relatórios de monitoria e controle de consumo de cursos.
+**Sistema profissional · demonstração disponível**
 
-Principais pontos técnicos:
+Sistema full stack de **gestão acadêmica e acompanhamento operacional**, criado para centralizar alunos, monitorias, indicadores, consumo de cursos, certificação e diferentes perfis de acesso.
 
-* Frontend em React/Vite
-* Backend em Python/Flask
-* Banco PostgreSQL/Neon
-* Integração com Google Sheets
-* Autenticação e perfis de acesso
-* Controle de permissões por tipo de usuário
-* Deploy em Vercel e Render
-* Scripts de diagnóstico, validação e atualização de dados
-* Dados públicos anonimizados para preservar informações sensíveis
+- **Frontend:** React + Vite.
+- **Backend:** Python + Flask.
+- **Dados:** PostgreSQL/Neon e integração com Google Sheets.
+- **Engenharia:** autenticação, autorização por perfil, testes, scripts operacionais e deploy separado de frontend e API.
 
-Repositório: [pd-reports](https://github.com/natanaelhauck/pd-reports)
+[Ver demonstração →](https://pdreports.vercel.app)
 
----
+> O repositório profissional é privado; a demonstração utiliza dados anonimizados ou fictícios.
 
-### Auto Relatório Monitoria
+### Campanha Fácil IA
 
-Automação em Python para reduzir trabalho operacional no registro de monitorias.
+**Projeto público · MVP em evolução**
 
-O sistema cruza eventos do Google Agenda com relatórios gerados pelo Read IA no Google Drive/Docs, identifica presença ou falta, prepara dados para envio ao Google Forms e evita duplicidades.
+Aplicação web para ajudar pequenos negócios a transformar um briefing simples em um plano inicial de campanha, com geração assistida por IA e orientações práticas para execução.
 
-Principais pontos técnicos:
+- **Stack:** Next.js, TypeScript, Tailwind CSS, OpenAI API e Google Gemini.
+- Histórico local e suporte opcional a autenticação/persistência com Supabase.
+- Testes E2E com Playwright, validações de entrada e controles de custo e segurança para chamadas de IA.
 
-* Python
-* Google Calendar API
-* Google Docs API
-* Google Drive API
-* Google Sheets API
-* Google Forms
-* Matching por matrícula e nome
-* Execução diária e semanal
-* Testes com pytest
-* Agendamento local no Windows
-
-Repositório: [auto-relatoriomonitoria](https://github.com/natanaelhauck/auto-relatoriomonitoria)
+[Ver repositório →](https://github.com/natanaelhauck/campanha-facil-IA)
 
 ---
 
-### Arraiá Control
+## 🎯 Foco técnico
 
-Sistema web interno para controle de acervo, reservas, aluguéis, devoluções e acompanhamento financeiro de peças de quadrilha.
+**Backend • APIs • Engenharia de Dados • Automação • Sistemas Full Stack**
 
-Principais pontos técnicos:
-
-* React 19
-* Vite
-* Supabase Auth
-* Supabase Database/PostgreSQL
-* Supabase Storage
-* Upload de imagens
-* Controle de disponibilidade
-* Detecção de conflito de agenda
-* Dashboard financeiro
-* Row Level Security no banco
-
-Repositório: [arraia-control](https://github.com/natanaelhauck/arraia-control)
-
----
-
-## 🎯 Meu objetivo
-
-Meu objetivo é evoluir como desenvolvedor full stack, criando sistemas úteis, bem documentados e seguros, com foco em resolver problemas reais de empresas, projetos educacionais e operações internas.
-
-Busco oportunidades para atuar com desenvolvimento web, automações, backend, integrações e análise de dados operacionais.
+Busco continuar aprofundando arquitetura backend, processamento e qualidade de dados, integrações e construção de produtos completos que transformem processos manuais e dados dispersos em sistemas confiáveis e úteis para tomada de decisão.
 
 ---
 
 ## 📫 Contato
 
-* GitHub: [@natanaelhauck](https://github.com/natanaelhauck)
-* LinkedIn: [Natanael Henrique Hauck](http://linkedin.com/in/natanaelhauck)
-* Gmail: [natanaelhauck1@gmail.com](mailto:natanaelhauck1@gmail.com)
-
----
-
-⭐ Obrigado por visitar meu perfil!
+<p>
+  <a href="https://www.linkedin.com/in/natanaelhauck"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:natanaelhauck1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/natanaelhauck"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
